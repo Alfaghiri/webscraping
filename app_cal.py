@@ -1,3 +1,8 @@
+"""
+@authors:
+Abdul Wahhab Alfaghiri Al Anzi   01524445
+Nouzad Mohammad                  00820679
+"""
 from bs4 import BeautifulSoup
 from flask import Flask
 from flask_cors import CORS
